@@ -8132,7 +8132,6 @@ mod test_circuit_breaker_enforcement;
 #[cfg(any())]
 mod test_event_ordering;
 #[cfg(test)]
-#[cfg(any())]
 mod test_rbac;
 
 #[cfg(test)]
